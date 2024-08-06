@@ -1,1 +1,1 @@
-# solvd_test_automation
+# Solvd Test Automation Course
