@@ -1,0 +1,14 @@
+2024-09-09T16:47:43.209847600
+Gustavo ferraz Bruna fonseca gustavo
+Unique words: 4
+bruna gustavo ferraz fonseca
+Number of letters: 32
+Number of matching words with Gustavo (case insensitive): 2
+
+2024-09-09T16:48:09.956891500
+Teste teste DASUHGYDU sda sadasudsag das dgaysdgyasgydagysu Teste
+Unique words: 6
+teste sda dasuhgydu das sadasudsag dgaysdgyasgydagysu
+Number of letters: 58
+Number of matching words with teste (case insensitive): 3
+Number of matching words with Teste (case sensitive): 2
